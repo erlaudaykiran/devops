@@ -1,2 +1,2 @@
 # devops
-this is my devops lab
+This is my Devops Lab
